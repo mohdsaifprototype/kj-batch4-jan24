@@ -1,0 +1,18 @@
+{
+  "name": "quizapp-using-js",
+  "version": "1.0.0",
+  "description": "A quiz app that's been made to handle quiz from backend and frontend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Advance",
+    "level",
+    "quiz",
+    "app"
+  ],
+  "author": "",
+  "license": "ISC"
+}
